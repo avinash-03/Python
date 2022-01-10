@@ -43,3 +43,6 @@ class Programmer(Employee):
 
 pr = Programmer()
 # pr.takeBreath() 
+
+e=Employee()
+e.takeBreath()
